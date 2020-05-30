@@ -2,6 +2,10 @@
 
 Currently this API is under domain `http://annoq.org:3404/` and index name (\<idx\>) is `vs-index`.
 
+## Examples
+
+[Here](./examples/) are some bash scripts examples for showing the usage of AnnoQ API.
+
 ## Annotation tree structure
 
 * endpoint 

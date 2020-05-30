@@ -5,7 +5,7 @@ This website ([link](http://annoq.org:4206/)) provides an interactive user inter
 
 ## Annotations Description
 
- The backend of the system is a large collection of pre-annotated variants from the Haplotype Reference Consortium [HRC](http://www.haplotype-reference-consortium.org/))  (~39 million) with sequence features (by [WGSA](https://sites.google.com/site/jpopgen/wgsa) and functions (PANTHER and Gene Ontology [link](pantherdb.org)). The data is built in an Elasticsearch framework and an API was built to allow users to quickly access the annotation data. More details about the data and its format please refer to [detail page](http://annoq.org/detail.html).
+ The backend of the system is a large collection of pre-annotated variants from the Haplotype Reference Consortium [HRC](http://www.haplotype-reference-consortium.org/))  (~39 million) with sequence features by [WGSA](https://sites.google.com/site/jpopgen/wgsa) and functions (PANTHER and Gene Ontology [link](http://pantherdb.org)). The data is built in an Elasticsearch framework and an API was built to allow users to quickly access the annotation data. More details about the data and its format please refer to [detail page](http://annoq.org/detail.html).
 
 ## Query Methods
 
